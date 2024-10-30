@@ -1,0 +1,551 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jigoshop Admin Bar Addition\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/jigoshop-admin-bar-addition?forum_id=10\n"
+"POT-Creation-Date: 2011-11-30 12:10+0100\n"
+"PO-Revision-Date: 2012-02-14 20:32+0100\n"
+"Last-Translator: David Decker <deckerweb.mobil@googlemail.com>\n"
+"Language-Team: DECKERWEB <deckerweb.mobil@googlemail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ jsaba
+#. translators: plugin header field 'Name'
+#: jigoshop-admin-bar-addition.php:0
+msgid "Jigoshop Admin Bar Addition"
+msgstr "Jigoshop Adminbar-Zusatz"
+
+#@ jsaba
+#. translators: plugin header field 'PluginURI'
+#: jigoshop-admin-bar-addition.php:0
+msgid "http://genesisthemes.de/en/wp-plugins/jigoshop-admin-bar-addition/"
+msgstr "http://genesisthemes.de/plugins/jigoshop-admin-bar-addition/"
+
+#@ jsaba
+#. translators: plugin header field 'Author'
+#: jigoshop-admin-bar-addition.php:0
+msgid "David Decker - DECKERWEB"
+msgstr "David Decker - DECKERWEB.de"
+
+#@ jsaba
+#. translators: plugin header field 'AuthorURI'
+#: jigoshop-admin-bar-addition.php:0
+msgid "http://deckerweb.de/"
+msgstr "http://deckerweb.de/"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:63
+msgid "FAQ"
+msgstr "Häufige Fragen - FAQ"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:64
+msgid "Support"
+msgstr "Hilfe und Unterstützung (Support)"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:65
+msgid "http://genesisthemes.de/en/donate/"
+msgstr "http://genesisthemes.de/spenden/"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:65
+msgid "Donate"
+msgstr "Spenden"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:114
+#: jigoshop-admin-bar-addition.php:116
+msgid "Jigoshop Support"
+msgstr "Jigoshop Support"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:163
+#: jigoshop-admin-bar-addition.php:165
+msgid "Jigoshop Knowledge Base"
+msgstr "Jigoshop Wissensbasis"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:120
+#: jigoshop-admin-bar-addition.php:122
+msgid "Jigoshop Public Forum"
+msgstr "Jigoshop Öffentliches Forum"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:132
+#: jigoshop-admin-bar-addition.php:134
+msgid "Jigoshop Premium Support"
+msgstr "Jigoshop Premium-Support"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:144
+#: jigoshop-admin-bar-addition.php:146
+msgid "Free Support Forum (WP.org)"
+msgstr "Freies Support-Forum (WP.org)"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:224
+#: jigoshop-admin-bar-addition.php:226
+msgid "Jigoshop HQ"
+msgstr "Jigoshop Zentrale"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:230
+#: jigoshop-admin-bar-addition.php:232
+msgid "Official Blog"
+msgstr "Offizieller Blog"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:236
+#: jigoshop-admin-bar-addition.php:238
+msgid "Showcase"
+msgstr "Showcase/ Beispiele"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:272
+#: jigoshop-admin-bar-addition.php:274
+msgid "Issues &amp; Bug Reports"
+msgstr "Probleme &amp; Fehlermeldungen"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:278
+#: jigoshop-admin-bar-addition.php:280
+msgid "GitHub Repository Developer Center"
+msgstr "GitHub Repository Entwickler-Plattform"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:242
+#: jigoshop-admin-bar-addition.php:244
+msgid "Official Jigoshop Extensions"
+msgstr "Offizielle Jigoshop Erweiterungen"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:290
+#: jigoshop-admin-bar-addition.php:292
+msgid "More free plugins/extensions at WP.org"
+msgstr "Mehr freie Plugins/ Erweiterungen bei WP.org"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:320
+#: jigoshop-admin-bar-addition.php:322
+msgid "German language files"
+msgstr "Deutsche Sprachdateien"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:349
+#: jigoshop-admin-bar-addition.php:351
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:368
+#: jigoshop-admin-bar-addition.php:370
+msgid "Products"
+msgstr "Produkte"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:374
+#: jigoshop-admin-bar-addition.php:376
+msgid "Add new product"
+msgstr "Neues Produkt hinzufügen"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:380
+#: jigoshop-admin-bar-addition.php:382
+msgid "Product Categories"
+msgstr "Produktkategorien"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:386
+#: jigoshop-admin-bar-addition.php:388
+msgid "Product Tags"
+msgstr "Produktschlagwörter"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:405
+#: jigoshop-admin-bar-addition.php:407
+msgid "Orders"
+msgstr "Bestellungen"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:411
+#: jigoshop-admin-bar-addition.php:413
+msgid "Add new order"
+msgstr "Eine neue Bestellung hinzufügen"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:459
+#: jigoshop-admin-bar-addition.php:461
+msgid "Jigoshop"
+msgstr "Jigoshop"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:343
+#: jigoshop-admin-bar-addition.php:345
+msgid "Shop Overview &amp; Reports"
+msgstr "Shop-Übersicht &amp; Statistik"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:355
+#: jigoshop-admin-bar-addition.php:357
+msgid "Jigoshop Widgets"
+msgstr "Jigoshop Widgets"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:424
+msgid "Active Extensions"
+msgstr "Aktive Erweiterungen"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:361
+#: jigoshop-admin-bar-addition.php:363
+msgid "System &amp Server Info"
+msgstr "System- und Server-Info"
+
+#@ jsaba
+#: jsaba-themes.php:25
+#: jsaba-themes.php:27
+msgid "Jigotheme Settings"
+msgstr "Jigotheme Einstellungen"
+
+#@ jsaba
+#: jsaba-themes.php:40
+#: jsaba-themes.php:42
+msgid "Corellian Theme Settings"
+msgstr "Corellian Theme-Einstellungen"
+
+#@ jsaba
+#: jsaba-themes.php:55
+#: jsaba-themes.php:57
+msgid "Origin Theme Settings"
+msgstr "Origin Theme-Einstellungen"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:302
+#: jigoshop-admin-bar-addition.php:304
+msgid "German Support Forum"
+msgstr "Deutsches Support-Forum"
+
+#@ jsaba
+#: jsaba-themes.php:100
+#: jsaba-themes.php:102
+msgid "Skeleton Theme Settings"
+msgstr "Skeleton Theme-Einstellungen"
+
+#@ jsaba
+#: jsaba-themes.php:115
+#: jsaba-themes.php:117
+msgid "Animal House Theme Settings"
+msgstr "Animal House Theme-Einstellungen"
+
+#@ jsaba
+#: jsaba-themes.php:130
+#: jsaba-themes.php:132
+msgid "FreshShop Theme Settings"
+msgstr "FreshShop Theme-Einstellungen"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:426
+#: jsaba-plugins.php:25
+#: jsaba-plugins.php:27
+#: jsaba-plugins.php:31
+#: jsaba-plugins.php:33
+msgid "Manage Exchange Rates"
+msgstr "Wechselkurse verwalten"
+
+#@ jsaba
+#: jsaba-plugins.php:67
+#: jsaba-plugins.php:69
+#: jsaba-plugins.php:73
+#: jsaba-plugins.php:75
+msgid "Delivery Notes Settings"
+msgstr "Lieferschein-Einstellungen"
+
+#@ jsaba
+#: jsaba-plugins.php:88
+#: jsaba-plugins.php:90
+msgid "Jigoshop Software Add-On"
+msgstr "Jigosoft Software-Zusatzmodul"
+
+#@ jsaba
+#: jsaba-plugins.php:94
+#: jsaba-plugins.php:96
+msgid "Stats"
+msgstr "Statistik"
+
+#@ jsaba
+#: jsaba-plugins.php:100
+#: jsaba-plugins.php:102
+msgid "Software Add-On: Stats"
+msgstr "Software-Zusatzmodul: Statistik"
+
+#@ jsaba
+#: jsaba-plugins.php:106
+#: jsaba-plugins.php:108
+msgid "Import"
+msgstr "Daten-Import"
+
+#@ jsaba
+#: jsaba-plugins.php:112
+#: jsaba-plugins.php:114
+msgid "Software Add-On: Import"
+msgstr "Software-Zusatzmodul: Daten-Import"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:392
+#: jigoshop-admin-bar-addition.php:394
+msgid "Product Variants"
+msgstr "Produktvarianten"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:398
+#: jigoshop-admin-bar-addition.php:400
+msgid "Attributes (for Product Variants)"
+msgstr "Eigenschaften (für Produktvarianten)"
+
+#@ jsaba
+#: jsaba-themes.php:145
+#: jsaba-themes.php:147
+msgid "Sommerce Theme Settings"
+msgstr "Sommerce Theme-Einstellungen"
+
+#@ jsaba
+#. translators: plugin header field 'Description'
+#: jigoshop-admin-bar-addition.php:0
+msgid "This plugin adds useful admin links and resources for the Jigoshop Shop Plugin to the WordPress Toolbar / Admin Bar."
+msgstr "Dieses Plugin fügt der WordPress Werkzeugleiste bzw. Adminbar nützliche Administratorlinks und Resourcen für das Jigoshop Shop-Plugin hinzu."
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:150
+#: jigoshop-admin-bar-addition.php:152
+msgid "Official Video Channel"
+msgstr "Offizieller Video-Kanal"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:156
+#: jigoshop-admin-bar-addition.php:158
+msgid "More Videos"
+msgstr "Weitere Videos"
+
+#@ jsaba
+#: jsaba-themes.php:70
+#: jsaba-themes.php:72
+msgid "Serenum Theme Settings"
+msgstr "Serenum Theme-Einstellungen"
+
+#@ jsaba
+#: jsaba-themes.php:85
+#: jsaba-themes.php:87
+msgid "Overload Theme Settings"
+msgstr "Overload Theme-Einstellungen"
+
+#@ jsaba
+#: jsaba-themes.php:160
+#: jsaba-themes.php:162
+msgid "Dotos Theme Settings"
+msgstr "Dotos Theme-Einstellungen"
+
+#@ jsaba
+#: jsaba-plugins.php:46
+#: jsaba-plugins.php:48
+#: jsaba-plugins.php:52
+#: jsaba-plugins.php:54
+msgid "Additional Taxonomy Content"
+msgstr "Ergänzende Taxonomie-Inhalte (Plugin-Erweiterung)"
+
+#@ jsaba
+#: jsaba-themes.php:175
+#: jsaba-themes.php:177
+msgid "Good Theme Settings"
+msgstr "Good Theme-Einstellungen"
+
+#@ jsaba
+#: jsaba-themes.php:191
+#: jsaba-themes.php:193
+msgid "Suffusion Theme Settings"
+msgstr "Suffusion Theme-Einstellungen"
+
+#@ jsaba
+#: jsaba-themes.php:203
+#: jsaba-themes.php:205
+msgid "Suffusion Commerce Pack"
+msgstr "Suffusion Commerce Integration"
+
+#@ jsaba
+#: jsaba-themes.php:219
+#: jsaba-themes.php:221
+msgid "Wardrobe Theme Settings"
+msgstr "Wardrobe Theme-Einstellungen"
+
+#@ jsaba
+#: jsaba-plugins.php:127
+#: jsaba-plugins.php:129
+msgid "Pronamic iDEAL Payment Gateway"
+msgstr "Pronamic iDEAL Zahlungsweise"
+
+#@ jsaba
+#: jsaba-plugins.php:133
+#: jsaba-plugins.php:135
+msgid "Payments"
+msgstr "Zahlungen"
+
+#@ jsaba
+#: jsaba-plugins.php:139
+#: jsaba-plugins.php:141
+msgid "Settings"
+msgstr "Einstellungen"
+
+#@ jsaba
+#: jsaba-plugins.php:145
+#: jsaba-plugins.php:147
+msgid "Pages Generator"
+msgstr "Seiten-Generator"
+
+#@ jsaba
+#: jsaba-plugins.php:151
+#: jsaba-plugins.php:153
+msgid "Variants"
+msgstr "Varianten"
+
+#@ jsaba
+#: jsaba-plugins.php:157
+#: jsaba-plugins.php:159
+msgid "Documentation"
+msgstr "Dokumentation und Hilfe-Links"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:126
+#: jigoshop-admin-bar-addition.php:128
+msgid "My Forum Profile &amp; Discussions"
+msgstr "Mein Forum-Profil und -Diskussionen"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:138
+#: jigoshop-admin-bar-addition.php:140
+msgid "My User Account At Jigoshop.com"
+msgstr "Mein Benutzerkonto bei Jigoshop.com"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:217
+#: jigoshop-admin-bar-addition.php:219
+msgid "Jigoshop Wiki at GitHub"
+msgstr "Jigoshop Wiki bei GitHub"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:248
+#: jigoshop-admin-bar-addition.php:250
+msgid "Themes for Jigoshop"
+msgstr "Themes für Jigoshop"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:254
+#: jigoshop-admin-bar-addition.php:256
+msgid "Plugin Extensions"
+msgstr "Plugin-Erweiterungen (Extensions)"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:260
+#: jigoshop-admin-bar-addition.php:262
+msgid "Jigoshop Affiliates Info"
+msgstr "Jigoshop Partnerprogramm Info"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:266
+#: jigoshop-admin-bar-addition.php:268
+msgid "Affiliates Login"
+msgstr "Partner-Login"
+
+#@ jsaba
+#: jsaba-plugins.php:172
+#: jsaba-plugins.php:174
+msgid "Affiliates Integration Light"
+msgstr "Affiliates Integration Light (Plugin)"
+
+#@ jsaba
+#: jsaba-plugins.php:187
+#: jsaba-plugins.php:189
+msgid "Jigoshop Store Toolkit"
+msgstr "Jigoshop Shop-Werkzeuge"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:284
+msgid "More premium extensions at CodeCanyon"
+msgstr "Mehr Premium-Erweiterungen bei CodeCanyon"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:286
+msgid "More premium plugins/extensions at CodeCanyon Marketplace"
+msgstr "Mehr Plugins/ Premium-Erweiterungen beim CodeCanyon Marktplatz"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:311
+msgid "German language plugin"
+msgstr "Deutsches Sprachplugin ..."
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:313
+msgid "German language plugin for Jigoshop - with complete translations and formal/informal version support!"
+msgstr "Deutsches Sprachplugin für Jigoshop - mit Komplettübersetzung sowie SIE-/ DU-Version!"
+
+#@ jsaba
+#. translators: plugin header field 'Version'
+#: jigoshop-admin-bar-addition.php:0
+msgid "1.8"
+msgstr "1.8"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:169
+#: jigoshop-admin-bar-addition.php:171
+msgid "Getting Started"
+msgstr "Infos zum Start"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:175
+#: jigoshop-admin-bar-addition.php:177
+msgid "Jigoshop Settings"
+msgstr "Jigoshop-Einstellungen"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:181
+#: jigoshop-admin-bar-addition.php:183
+msgid "Creating Products"
+msgstr "Produkte erstellen"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:187
+#: jigoshop-admin-bar-addition.php:189
+msgid "Using Jigoshop"
+msgstr "Einsatz/ Verwaltung von Bestellungen etc."
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:193
+#: jigoshop-admin-bar-addition.php:195
+msgid "Customize Jigoshop"
+msgstr "Jigoshop anpassen"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:199
+#: jigoshop-admin-bar-addition.php:201
+msgid "Jigoshop API"
+msgstr "Jigoshop-API"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:205
+#: jigoshop-admin-bar-addition.php:207
+msgid "Hook Reference"
+msgstr "Hook-Referenz"
+
+#@ jsaba
+#: jigoshop-admin-bar-addition.php:211
+#: jigoshop-admin-bar-addition.php:213
+msgid "Filter Reference"
+msgstr "Filter-Referenz"
+
